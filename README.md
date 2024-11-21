@@ -2,15 +2,15 @@
 
 **Questions**
 
-Which songs are liked, and which songs are not?
+1-Which songs are liked, and which songs are not?
 
-Who is the most popular artist? 
+2-Who is the most popular artist? 
 
-Does danceability make an artist more popular?
+3-Does danceability make an artist more popular?
 
-Does the duration of the song affect the likeability of a song?
+4-Does the duration of the song affect the likeability of a song?
 
-How does the energy and tempo affects the likeability of a song?
+5-How does the energy and tempo affects the likeability of a song?
 
 This analysis provides valuable insights into the factors influencing the likeability and popularity of songs and artists.
  The dataset revealed a nearly even distribution of liked and unliked songs, with liked songs slightly outnumbering unliked ones. 
